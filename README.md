@@ -1,58 +1,58 @@
 # khadga_chatbot Application
 This is a simple chatbot app. Here we basically answer the usually asked questions. We have uploaded a few quesries on a database. Here in this application,the backend receives the question and finds the question on the database and checks for the reply and sends it to the front end. We have used MERN stack to do the given application.
 The questions on our database are:
-Hello
-How are you?
-What is your name's meaning?
-Hi
-What is your name?
-Tell me a joke
-What languages you speak?
-Are you a robot?
-What's up?
-Good morning
-Good afternoon
-Good night
-Good afternoon
-Tell me something
-Ok
-Okay
-Yes
-I'll do that now
-Thank you
-Good bye
-How can you help me?
-What can you do?
-You are funny
-Do you love me?
-I love you
-Do you like people?
-You are cute
-You are beautiful
-You are handsome
-Do you have a hobby?
-You are smart
-You are clever
-You are intelligent
-You are annoying
-You are boring
-You are bad
-You are crazy
-I want to speak to a human
-I wan the answer now
-Are you a human?
-Where do you live?
-Are you expensive?
-How many people can you speak to at once?
-How is your day going on?
-Are you AI?
-Would you conquer the world?
-When will you die?
-Kill yourself
-Which is your planet?
-Where are you from?
+Hello,
+How are you?,
+What is your name's meaning?,
+Hi,
+What is your name?,
+Tell me a joke,
+What languages you speak?,
+Are you a robot?,
+What's up?,
+Good morning,
+Good afternoon,
+Good night,
+Good afternoon,
+Tell me something,
+Ok,
+Okay,
+Yes,
+I'll do that now,
+Thank you,
+Good bye,
+How can you help me?,
+What can you do?,
+You are funny,
+Do you love me?,
+I love you,
+Do you like people?,
+You are cute,
+You are beautiful,
+You are handsome,
+Do you have a hobby?,
+You are smart,
+You are clever,
+You are intelligent,
+You are annoying,
+You are boring,
+You are bad,
+You are crazy,
+I want to speak to a human,
+I wan the answer now,
+Are you a human?,
+Where do you live?,
+Are you expensive?,
+How many people can you speak to at once?,
+How is your day going on?,
+Are you AI?,
+Would you conquer the world?,
+When will you die?,
+Kill yourself,
+Which is your planet?,
+Where are you from?,
 
-
+Hope you like our project and before starting make sure you meet the below pre-requisites.
 # MongoDB Setup
 Open MongoDB Compass and connect to the localhost:27017
 And create a chat_khadga and users as collection
